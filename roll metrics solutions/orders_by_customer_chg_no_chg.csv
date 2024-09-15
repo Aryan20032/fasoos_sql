@@ -1,0 +1,7 @@
+customer_id,change_no_change,number_of_orders
+101,"no change",2
+102,"no change",3
+103,change,3
+104,change,2
+104,"no change",1
+105,change,1
